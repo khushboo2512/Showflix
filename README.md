@@ -1,4 +1,4 @@
-# browse-tvshows-vue
+# Browse TV shows App
 
 The TV show streaming application provides an intuitive and interactive UI for users to browse and stream their favorite TV shows. By using Vue.js and TypeScript, the application benefits from a scalable and maintainable codebase. The client-side architecture ensures a smooth user experience, while the server-side APIs handle the data retrieval and serve it to the client.
 
